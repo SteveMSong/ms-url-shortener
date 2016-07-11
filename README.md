@@ -22,7 +22,6 @@
     <code>https://ms-url-shortener.herokuapp.com/addURL/http://freecodecamp.com/news</code>
     <h2>example output:</h2>
     <code>{ "original_url": "https://www.yahoo.com", "short_url": "https://ms-url-shotener.herokuapp.com/shorten" }</code><br>
-    <code>{"unix": null, "natural": null}</code>
     <h2>usage:</h2>
     <code>https://ms-url-shortener.herokuapp.com/shorten</code><br>
     <h2>will redirect to:</h2>
