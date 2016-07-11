@@ -14,7 +14,7 @@ https://ms-url-shortener.herokuapp.com/addURL/http://freecodecamp.com/news
 ## Example creation output:
 
 ```js
-{ "original_url": "http://www.yahoo.com", "short_url": "https://ms-url-shotener.herokuapp.com/shorten" }
+{ "original_url": "https://www.yahoo.com", "short_url": "https://ms-url-shotener.herokuapp.com/shorten" }
 ```
 
 ## Usage:
@@ -23,4 +23,4 @@ https://ms-url-shortener.herokuapp.com/addURL/http://freecodecamp.com/news
 
 ### Will redirect to:
 
-`http://www.yahoo.com`
+`https://www.yahoo.com`
